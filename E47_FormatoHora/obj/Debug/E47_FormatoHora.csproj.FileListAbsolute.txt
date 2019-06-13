@@ -1,0 +1,7 @@
+C:\Users\Yesica Moreno\source\repoS10\E47_FormatoHora\E47_FormatoHora\bin\Debug\E47_FormatoHora.exe.config
+C:\Users\Yesica Moreno\source\repoS10\E47_FormatoHora\E47_FormatoHora\bin\Debug\E47_FormatoHora.exe
+C:\Users\Yesica Moreno\source\repoS10\E47_FormatoHora\E47_FormatoHora\bin\Debug\E47_FormatoHora.pdb
+C:\Users\Yesica Moreno\source\repoS10\E47_FormatoHora\E47_FormatoHora\obj\Debug\E47_FormatoHora.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\repoS10\E47_FormatoHora\E47_FormatoHora\obj\Debug\E47_FormatoHora.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\repoS10\E47_FormatoHora\E47_FormatoHora\obj\Debug\E47_FormatoHora.exe
+C:\Users\Yesica Moreno\source\repoS10\E47_FormatoHora\E47_FormatoHora\obj\Debug\E47_FormatoHora.pdb
